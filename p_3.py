@@ -1,6 +1,12 @@
 #!/usr/bin/python
 import math
 
+#
+#   Project Euler problem #3
+#   Findin largest prime factor of a given number
+#   Implemented with function practice
+#
+
 def isFactor( arg1 , max ):
     rtrn = 0
     if max % arg1 == 0:
