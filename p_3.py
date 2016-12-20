@@ -3,7 +3,7 @@ import math
 
 #
 #   Project Euler problem #3
-#   Findin largest prime factor of a given number
+#   Finding largest prime factor of a given number
 #   Implemented with function practice
 #
 
